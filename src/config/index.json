@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Papelería y Variedades Toda Ocasión, ofrecemos una amplia selección de productos para el hogar, papelería, cacharrería y piñatería. Ofrecemos una amplia gama de productos de papelería, artículos para el hogar, regalos y más.",
+        "description": "En Papelería y Variedades Toda Ocasión, ofrecemos una amplia selección de productos para el hogar, papelería, bisutería, cacharrería, ferretería, piñatería, detalles especiales, accesorios, perfumería, artículos de limpieza, regalos y mucho más.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 322 8289062",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "papelerialaocasion@outlook.es",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "papelería miscelánea y variedades toda ocasión",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
